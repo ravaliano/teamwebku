@@ -8,7 +8,7 @@ Website ini dibuat dalam rangka mengerjakan tugas ketiga individu mata kuliah Pe
 
 ## Tampilan website
 
-![preview of Adrian Ravaliano Wibowo's portfolio website](./preview/previewportofolio.png)
+![preview of Adrian Ravaliano Wibowo's portfolio website](./preview/phoneweb.png)
 
 Tampilan tersebut dapat dilihat di [link berikut (https://phone-store-8cbcc5.webflow.io//)](https://phone-store-8cbcc5.webflow.io/)
 
