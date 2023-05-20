@@ -10,7 +10,7 @@ Website ini dibuat dalam rangka mengerjakan tugas ketiga individu mata kuliah Pe
 
 ![preview of PhoneStore Website](./preview/phoneweb.png)
 
-Tampilan tersebut dapat dilihat di [link berikut (https://phone-store-8cbcc5.webflow.io//)](https://phone-store-8cbcc5.webflow.io/)
+Tampilan tersebut dapat dilihat di [link berikut (https://phone-store-8cbcc5.webflow.io///)](https://phone-store-8cbcc5.webflow.io/)
 
 ## Optimalisasi website
 
