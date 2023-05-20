@@ -15,7 +15,7 @@ Tampilan tersebut dapat dilihat di [link berikut (https://phone-store-8cbcc5.web
 ## Optimalisasi website
 
 Nilai lighthouse sebelum optimalisasi
-![preview of PhoneStore Website Analyze](./preview/result1.png)
+![preview of PhoneStore Website Analyze](./preview/resultphone.png)
 
 Nilai lighthouse setelah optimalisasi
 (screenshot)
